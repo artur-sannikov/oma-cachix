@@ -36,6 +36,9 @@ let
     glue
     gsEasy
     GUniFrac
+    kableExtra
+    knitr
+    Maaslin2
     igraph
     TMB
     glmmTMB
