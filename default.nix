@@ -4,7 +4,16 @@ let
   inherit (pkgs) R glibcLocalesUtf8 nix;
 };
  r_packages = builtins.attrValues {
-  inherit (pkgs.rPackages) TMB glmmTMB;
+  inherit (pkgs.rPackages) 
+    ALDEx2
+    ANCOMBC
+    ComplexHeatmap
+    Maaslin2
+    TMB
+    dada2
+    glmmTMB
+    mikropml;
+    tidyverse;
 };
   in
   pkgs.mkShell {
