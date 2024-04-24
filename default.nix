@@ -34,7 +34,6 @@ let
     ggtree
     glmnet
     glue
-    grid
     gsEasy
     GUniFrac
     igraph
