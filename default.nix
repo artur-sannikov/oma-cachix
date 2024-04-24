@@ -6,11 +6,7 @@ let
  r_packages = builtins.attrValues {
   inherit (pkgs.rPackages) 
     ALDEx2
-    ANCOMBC
-    ComplexHeatmap
-    Maaslin2
     TMB
-    dada2
     glmmTMB
     mikropml
     tidyverse;
