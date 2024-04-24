@@ -4,7 +4,7 @@ let
   inherit (pkgs) R glibcLocalesUtf8 nix;
 };
  r_packages = builtins.attrValues {
-  inherit (pkgs.rPackages) TMB;
+  inherit (pkgs.rPackages) TMB glmmTMB;
 };
   in
   pkgs.mkShell {
