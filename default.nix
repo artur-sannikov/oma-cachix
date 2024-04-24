@@ -36,6 +36,7 @@ let
     glue
     gsEasy
     GUniFrac
+    igraph
     kableExtra
     knitr
     Maaslin2
@@ -43,7 +44,12 @@ let
     microbiomeDataSets
     MicrobiomeStat
     mikropml
-    igraph
+    MLeval
+    MMUPHin
+    multiview
+    NbClust
+    patchwork
+    pheatmap
     TMB
     glmmTMB
     tidyverse;
