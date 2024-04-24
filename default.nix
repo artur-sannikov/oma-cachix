@@ -12,7 +12,7 @@ let
     TMB
     dada2
     glmmTMB
-    mikropml;
+    mikropml
     tidyverse;
 };
   in
