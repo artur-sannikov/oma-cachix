@@ -16,6 +16,9 @@ let
     cluster
     cobiclust
     ComplexHeatmap
+    corpcor
+    cowplot
+    curatedMetagenomicData
     TMB
     glmmTMB
     mikropml
