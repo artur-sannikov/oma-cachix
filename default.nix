@@ -19,6 +19,11 @@ let
     corpcor
     cowplot
     curatedMetagenomicData
+    dendextend
+    dada2
+    devtools
+    DirichletMultinomial
+    dplyr
     TMB
     glmmTMB
     mikropml
