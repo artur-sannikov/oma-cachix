@@ -6,6 +6,8 @@ let
  r_packages = builtins.attrValues {
   inherit (pkgs.rPackages) 
     ALDEx2
+    ape
+    biclust
     TMB
     glmmTMB
     mikropml
