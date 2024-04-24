@@ -24,6 +24,15 @@ let
     devtools
     DirichletMultinomial
     dplyr
+    DT
+    factoextra
+    forcats
+    fido
+    ggplot2
+    ggpubr
+    ggsignif
+    ggtree
+    glmnet
     TMB
     glmmTMB
     mikropml
