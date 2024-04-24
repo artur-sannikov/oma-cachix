@@ -8,6 +8,13 @@ let
     ALDEx2
     ape
     biclust
+    BiocParallel
+    Biostrings
+    bluster
+    caret
+    circlize
+    cluster
+    cobiclust
     TMB
     glmmTMB
     mikropml
