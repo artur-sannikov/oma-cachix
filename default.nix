@@ -39,10 +39,13 @@ let
     kableExtra
     knitr
     Maaslin2
+    microbiome
+    microbiomeDataSets
+    MicrobiomeStat
+    mikropml
     igraph
     TMB
     glmmTMB
-    mikropml
     tidyverse;
 };
   in
