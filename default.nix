@@ -15,6 +15,7 @@ let
     circlize
     cluster
     cobiclust
+    ComplexHeatmap
     TMB
     glmmTMB
     mikropml
