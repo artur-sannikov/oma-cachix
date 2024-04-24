@@ -33,6 +33,11 @@ let
     ggsignif
     ggtree
     glmnet
+    glue
+    grid
+    gsEasy
+    GUniFrac
+    igraph
     TMB
     glmmTMB
     mikropml
